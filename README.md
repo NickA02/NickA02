@@ -1,6 +1,10 @@
 ## Hey there, welcome to my GitHub!
 ### About Me
-My name is Nicholas Almy, a first year graduate student at the University of North Carolina at Chapel Hill. I've been in chapel hill for four and a half years now, having completed my bachelor's degree with honors in May of this year. Aside from software development, I enjoy being traveling, sports, and quality time with those I care about. 
+My name is Nicholas Almy, a first year graduate student at the University of North Carolina at Chapel Hill. I've been in chapel hill for four and a half years now, having completed my bachelor's degree with honors in May of this year. 
+
+Currently, I am working as a TA for the course COMP 455: Models of languages and computation, and I am looking to gain industry experience in software development, computer vision, and AI domains. 
+
+Aside from software development, I enjoy being traveling, sports, and quality time with those I care about. 
 
 ### What you'll find here
 Recently I have worked on a couple of projects that I am really proud of. First, my team and I built the first iteration of a coding platform, much like leetcode and gradescope, that lets students work on and submit solutions for coding challenges for Virginia Science olympiad events. You will also find that I worked on a few projects regarding viewing and manipulating NFL sports video for coaches analysis. Lastly, you will find various repositories where I have investigated the usefulness of LLMs in various settings (Summarization (Spring 2022), Cognitive Distortion Detection (Fall 2024)). 
