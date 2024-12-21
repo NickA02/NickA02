@@ -1,6 +1,6 @@
 ## Hey there, welcome to my GitHub!
 ### About Me
-My name is Nicholas Almy, a first year graduate student at the University of North Carolina at Chapel Hill. I've been in chapel hill for four and a half years now, having completed my bachelor's degree with honors in May of this year. 
+My name is Nicholas Almy, a first year graduate student at the University of North Carolina at Chapel Hill. I've been in chapel hill for four and a half years now, having completed my bachelor's degree with distinction in May of this year. 
 
 Currently, I am working as a TA for the course COMP 455: Models of languages and computation, and I am looking to gain industry experience in software development, computer vision, and AI domains. 
 
